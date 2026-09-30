@@ -26,4 +26,16 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PulkitPunea/DSA-tracking-repo/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PulkitPunea/DSA-tracking-repo/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PulkitPunea/DSA-tracking-repo/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PulkitPunea/DSA-tracking-repo/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
